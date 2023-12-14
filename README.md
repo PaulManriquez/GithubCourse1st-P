@@ -1,2 +1,2 @@
-# GithubCourse1st
+# My primer README
 Practice 
